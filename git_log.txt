@@ -1,15 +1,60 @@
-commit 53b6f9a9c176b55084c173ce657c16caea349ca7
-Merge: b70308f 31fbe13
+commit c27e72611a99e607090d309077ed016130df0e59
+Merge: 0390298 df4013c
+Author: ret04 <154299701+ret04@users.noreply.github.com>
+Date:   Wed Sep 4 14:49:30 2024 -0700
+
+    Merge pull request #2 from ret04/feature-about-me
+    
+    Feature about me
+
+commit df4013c41fa8614c9e02c5b830b59dcc080f07fc
+Merge: 6522d9d 0390298
+Author: ret04 <154299701+ret04@users.noreply.github.com>
+Date:   Wed Sep 4 14:48:59 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 6522d9d21d5e4eda2881d13c780976a0d318ec14
+Author: ret04 <154299701+ret04@users.noreply.github.com>
+Date:   Wed Sep 4 14:38:00 2024 -0700
+
+    Adding desired info to index.html
+    
+    Added name, hobby, favorite food, fun fact, and name in copyright statement for index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 03902983cd26e2021d5ffa7ef511383d9e9b948a
 Author: ret04 <ryantakeshita@gmail.com>
-Date:   Wed Aug 28 15:08:50 2024 -0700
+Date:   Wed Aug 28 15:15:36 2024 -0700
 
-    Resolved merge conflict, added both changes
-
-commit b70308f3f35f9c77b29b4184a4ecd0310c304a6e
-Author: ret04 <ryantakeshita@gmail.com>
-Date:   Wed Aug 28 15:00:32 2024 -0700
-
-    Added favorite game to index.html
+    Adding git_log and repo-location files
 
 commit 31fbe13607d99629b6a56e32b3f69cf5464b78a7
 Author: ret04 <ryantakeshita@gmail.com>
