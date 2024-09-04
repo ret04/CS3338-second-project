@@ -1,0 +1,45 @@
+commit 53b6f9a9c176b55084c173ce657c16caea349ca7
+Merge: b70308f 31fbe13
+Author: ret04 <ryantakeshita@gmail.com>
+Date:   Wed Aug 28 15:08:50 2024 -0700
+
+    Resolved merge conflict, added both changes
+
+commit b70308f3f35f9c77b29b4184a4ecd0310c304a6e
+Author: ret04 <ryantakeshita@gmail.com>
+Date:   Wed Aug 28 15:00:32 2024 -0700
+
+    Added favorite game to index.html
+
+commit 31fbe13607d99629b6a56e32b3f69cf5464b78a7
+Author: ret04 <ryantakeshita@gmail.com>
+Date:   Wed Aug 28 14:58:49 2024 -0700
+
+    Added favorite food to html.index
+
+commit c17157cb08ec4c8238d13575481d2136152cf0ac
+Author: ret04 <ryantakeshita@gmail.com>
+Date:   Wed Aug 28 14:43:57 2024 -0700
+
+    Adding READEME file to the main branch
+
+commit 7c2dc1c5be3fb04405e365c15abbd2655772a469
+Merge: 1d2bfc0 f808dda
+Author: ret04 <154299701+ret04@users.noreply.github.com>
+Date:   Wed Aug 28 14:39:03 2024 -0700
+
+    Merge pull request #1 from ret04/info-fill
+    
+    Updated name and hobby blanks
+
+commit f808ddaf6dbfdd3a855ea49680be10f5c18520e3
+Author: ret04 <ryantakeshita@gmail.com>
+Date:   Wed Aug 28 14:33:08 2024 -0700
+
+    Updated name and hobby blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
